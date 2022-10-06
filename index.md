@@ -14,7 +14,7 @@ export_on_save:
 *[:fa-play:]: Apresentação .ppsx (slides de aula)
 *[:fa-file:]: Arquivo .pdf (slides de aula)
 *[:fa-code:]: Arquivos de codificação (.ipynb, .py, .data)
-*[:fa-pencil:]: Enunciado de exercício
+*[:fa-pencil:]: Enunciado de exercício 
 
 ## Aulas
 
@@ -90,7 +90,6 @@ export_on_save:
 [Professor Associado IV (DCOMP/UFS)](https://www.sigaa.ufs.br/sigaa/public/docente/portal.jsf?siape=2527554)
 [Bolsista de Produtividade CNPq](http://lattes.cnpq.br/7119477874134821)
 hendrik@dcomp.ufs.br
-
 
 @import "./assets/images/science.png" {width=9% align=left hspace=5} 
 
