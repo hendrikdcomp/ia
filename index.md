@@ -28,21 +28,21 @@ export_on_save:
 
 #### 4 - Busca local (gradiente) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EeMs_xHZV_tClVmcblIhNFgBD7yFYk92u9ap4WtbalI6-Q?e=XB5AUj) [:fa-file:](/conteudo/aulas/04buscalocal_gradienteIA.pdf) [:fa-code:](/conteudo/codigos/04/)
 
-#### 5 - Busca local (populacional) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ed_9H3wKJ7BMljrgZYJtMBYB2jJ8scLWCoR48bJv0nB28g?e=OeTiix) [:fa-file:](/conteudo/05buscalocal_populacionalIA.pdf) [:fa-code:](/conteudo/codigos/05/)
+#### 5 - Busca local (populacional) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ed_9H3wKJ7BMljrgZYJtMBYB2jJ8scLWCoR48bJv0nB28g?e=OeTiix) [:fa-file:](/conteudo/aulas/05buscalocal_populacionalIA.pdf) [:fa-code:](/conteudo/codigos/05/)
 
-#### 6 - Minimax e Monte Carlo Tree Search [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXDcj6DT5_hEsAolicg0mJ4BE9T-7RioyRmb8PLwNUceHw?e=tWQfbA) [:fa-file:](/conteudo/06buscaadversarios_minimaxIA.pdf) [:fa-code:](/conteudo/codigos/06/)
+#### 6 - Minimax e Monte Carlo Tree Search [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXDcj6DT5_hEsAolicg0mJ4BE9T-7RioyRmb8PLwNUceHw?e=tWQfbA) [:fa-file:](/conteudo/aulas/06buscaadversarios_minimaxIA.pdf) [:fa-code:](/conteudo/codigos/06/)
 
-#### 7 - Expect(min)imax [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUpMV9JtxKlHmapxH4V18AsB0d2Ht19ALRQkO73fDJpY3g?e=OZsJk9) [:fa-file:](/conteudo/07buscaadversarios_expectiminimaxIA.pdf) [:fa-code:](/conteudo/codigos/07/)
+#### 7 - Expect(min)imax [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUpMV9JtxKlHmapxH4V18AsB0d2Ht19ALRQkO73fDJpY3g?e=OZsJk9) [:fa-file:](/conteudo/aulas/07buscaadversarios_expectiminimaxIA.pdf) [:fa-code:](/conteudo/codigos/07/)
 
-#### 8 -  Processo de decisão markoviano [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ETFTS3HA0wdImWCGBdPEysoB9VPWyx2hzmBadQJ-0r11cQ?e=QbPDsp) [:fa-file:](/conteudo/08mdpIA.pdf) [:fa-code:](/conteudo/codigos/08/)
+#### 8 -  Processo de decisão markoviano [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ETFTS3HA0wdImWCGBdPEysoB9VPWyx2hzmBadQJ-0r11cQ?e=QbPDsp) [:fa-file:](/conteudo/aulas/08mdpIA.pdf) [:fa-code:](/conteudo/codigos/08/)
 
-#### 9 - Aprendizagem por reforço [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ERIxS8EfePRFmLrskHxUlQMBkjKCqCT0WWeM7H6jD0I0dg?e=kuKMae)  [:fa-file:](/conteudo/09aprendizagemreforcoIA.pdf) [:fa-code:](/conteudo/codigos/09/)
+#### 9 - Aprendizagem por reforço [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ERIxS8EfePRFmLrskHxUlQMBkjKCqCT0WWeM7H6jD0I0dg?e=kuKMae)  [:fa-file:](/conteudo/aulas/09aprendizagemreforcoIA.pdf) [:fa-code:](/conteudo/codigos/09/)
 
 #### 10 - Inferência precisa [:fa-file:](/conteudo/aulas/10inferenciaIA.pdf) e Sistemas de Produção [:fa-file:](/conteudo/aulas/10sistemasproducaoIA.pdf)  [:fa-code:](/conteudo/codigos/10/)
 
 #### 11 - Modelos probabilísticos temporais (Cadeias de Markov) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUVvZIReeJVIoT2wdX1VJrIBvRVeHNqPpCB9Qm8lvokHoQ?e=3xfFW4) [:fa-file:](/conteudo/aulas/11amodelosmarkovIA.pdf) e Modelos Escondidos de Markov (HMM) [:fa-file:](/conteudo/aulas/11bhmmIA.pdf) [:fa-code:](/conteudo/codigos/11/)
 
-#### 12 - Raciocínio probabilístico (Redes Bayesianas) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUhbBnOCB15Ksphb1LFZqf8BD3FUMKeg2yq2ZLr8zRECMw?e=S6UPHR) [:fa-file:](/conteudo/12racprobIA.pdf) [:fa-code:](/conteudo/codigos/12/)
+#### 12 - Raciocínio probabilístico (Redes Bayesianas) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUhbBnOCB15Ksphb1LFZqf8BD3FUMKeg2yq2ZLr8zRECMw?e=S6UPHR) [:fa-file:](/conteudo/aulas/12racprobIA.pdf) [:fa-code:](/conteudo/codigos/12/)
 
 #### 13 - Teoria da Decisão Bayesiana [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EfqxW6cT6r5LtxDqDz-51CQBDgtjw6t1h7P_V2CBHXaEyg?e=k111U6) [:fa-file:](/conteudo/aulas/13teoriadecisao.pdf) [:fa-code:](/conteudo/codigos/13/)
 
