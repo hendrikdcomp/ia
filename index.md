@@ -18,7 +18,7 @@ export_on_save:
 
 ## Aulas
 
-*Cada tópico de aula possui slides de aula executáveis em formato .ppsx, slides em formato .pdf e um notebook Jupiter executável (.ipynb) (em Python) relacionados aos subtópicos listados. Eventualmente, arquivos Python auxiliares necessários para execução do Jupiter também são fornecidos.*
+*Cada tópico de aula possui slides de aula executáveis em formato .ppsx, slides em formato .pdf e um notebook Jupiter executável (.ipynb) (em Python) relacionados aos subtópicos listados. Eventualmente, arquivos Python auxiliares necessários para execução do Jupiter também serão fornecidos.*
 
 #### 1 - Introdução à Inteligência Artificial [:fa-file:](/conteudo/aulas/01introducaoIA.pdf)
 
