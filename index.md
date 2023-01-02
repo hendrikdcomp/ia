@@ -83,7 +83,7 @@ export_on_save:
 **Para acesso às soluções dos exercícios práticos e teóricos, contactar o autor por e-mail*.
 
 ---
-## Sobre o autor
+## Sobre o autor 
 
 @import "./assets/images/eu.jpg" {width=20% align=left hspace=5} 
 
