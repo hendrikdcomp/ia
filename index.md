@@ -10,7 +10,7 @@ export_on_save:
 
 @import "./assets/images/back-ia.jpg" {width=100%}  
 
-*[:fa-html5:]: Arquivo .html (slides de aula)
+*[:fa-html5:]: Arquivo .html (slides de aula) 
 *[:fa-play:]: Apresentação .ppsx (slides de aula)
 *[:fa-file:]: Arquivo .pdf (slides de aula)
 *[:fa-code:]: Arquivos de codificação (.ipynb, .py, .data)
@@ -61,6 +61,7 @@ export_on_save:
 #### 20 - Regressão Linear [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EenePtwkDMZErDX14C-r5ocBgyLtLwak12vSAy6OQBF8eA?e=zuC4Oo) [:fa-file:](/conteudo/aulas/20regressaoML.pdf) [:fa-code:](/conteudo/codigos/20/20.zip)
 
 #### 21 - Modelos descritivos (agrupamento) [:fa-html5:](/conteudo/aulas/21kmeansML.html) [:fa-code:](/conteudo/codigos/21/21.zip)
+#
 
 --- 
 ## Exercícios
