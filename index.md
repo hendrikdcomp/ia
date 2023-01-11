@@ -22,9 +22,9 @@ export_on_save:
 
 #### 1 - Introdução à Inteligência Artificial [:fa-file:](/conteudo/aulas/01introducaoIA.pdf)
 
-#### 2 - Busca global cega [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EQlkXq0lCTRNulFxEeqbd2MBUw5tm-g-wTOfJbvlOM_bgA?e=Qdom0p) [:fa-file:](/conteudo/aulas/02buscacegaIA.pdf) [:fa-code:](/conteudo/codigos/02/)
+#### 2 - Busca global cega [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EQlkXq0lCTRNulFxEeqbd2MBUw5tm-g-wTOfJbvlOM_bgA?e=Qdom0p) [:fa-file:](/conteudo/aulas/02buscacegaIA.pdf) [:fa-code:](/conteudo/codigos/02/02buscaglobal_cega.ipynb)
 
-#### 3 - Busca global com heurísticas [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ea4Ds0ZCjc9LsvsmWX4ek2sBVP5KfgM1E_GleFeDX5r12w?e=RQ13lt) [:fa-file:](/conteudo/aulas/03buscaheuristicasIA.pdf) [:fa-code:](/conteudo/codigos/03)
+#### 3 - Busca global com heurísticas [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ea4Ds0ZCjc9LsvsmWX4ek2sBVP5KfgM1E_GleFeDX5r12w?e=RQ13lt) [:fa-file:](/conteudo/aulas/03buscaheuristicasIA.pdf) [:fa-code:](/conteudo/codigos/03/03buscaglobal_informada.ipynb)
 
 #### 4 - Busca local (gradiente) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EeMs_xHZV_tClVmcblIhNFgBD7yFYk92u9ap4WtbalI6-Q?e=XB5AUj) [:fa-file:](/conteudo/aulas/04buscalocal_gradienteIA.pdf) [:fa-code:](/conteudo/codigos/04/)
 
