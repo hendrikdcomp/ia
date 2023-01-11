@@ -22,45 +22,45 @@ export_on_save:
 
 #### 1 - Introdução à Inteligência Artificial [:fa-file:](/conteudo/aulas/01introducaoIA.pdf)
 
-#### 2 - Busca global cega [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EQlkXq0lCTRNulFxEeqbd2MBUw5tm-g-wTOfJbvlOM_bgA?e=Qdom0p) [:fa-file:](/conteudo/aulas/02buscacegaIA.pdf) [:fa-code:](/conteudo/codigos/02/02buscaglobal_cega.ipynb)
+#### 2 - Busca global cega [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EQlkXq0lCTRNulFxEeqbd2MBUw5tm-g-wTOfJbvlOM_bgA?e=Qdom0p) [:fa-file:](/conteudo/aulas/02buscacegaIA.pdf) [:fa-code:](/conteudo/codigos/02/02.zip)
 
-#### 3 - Busca global com heurísticas [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ea4Ds0ZCjc9LsvsmWX4ek2sBVP5KfgM1E_GleFeDX5r12w?e=RQ13lt) [:fa-file:](/conteudo/aulas/03buscaheuristicasIA.pdf) [:fa-code:](/conteudo/codigos/03/03buscaglobal_informada.ipynb)
+#### 3 - Busca global com heurísticas [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ea4Ds0ZCjc9LsvsmWX4ek2sBVP5KfgM1E_GleFeDX5r12w?e=RQ13lt) [:fa-file:](/conteudo/aulas/03buscaheuristicasIA.pdf) [:fa-code:](/conteudo/codigos/03/03.zip)
 
-#### 4 - Busca local (gradiente) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EeMs_xHZV_tClVmcblIhNFgBD7yFYk92u9ap4WtbalI6-Q?e=XB5AUj) [:fa-file:](/conteudo/aulas/04buscalocal_gradienteIA.pdf) [:fa-code:](/conteudo/codigos/04/)
+#### 4 - Busca local (gradiente) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EeMs_xHZV_tClVmcblIhNFgBD7yFYk92u9ap4WtbalI6-Q?e=XB5AUj) [:fa-file:](/conteudo/aulas/04buscalocal_gradienteIA.pdf) [:fa-code:](/conteudo/codigos/04/04.zip)
 
-#### 5 - Busca local (populacional) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ed_9H3wKJ7BMljrgZYJtMBYB2jJ8scLWCoR48bJv0nB28g?e=OeTiix) [:fa-file:](/conteudo/aulas/05buscalocal_populacionalIA.pdf) [:fa-code:](/conteudo/codigos/05/)
+#### 5 - Busca local (populacional) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ed_9H3wKJ7BMljrgZYJtMBYB2jJ8scLWCoR48bJv0nB28g?e=OeTiix) [:fa-file:](/conteudo/aulas/05buscalocal_populacionalIA.pdf) [:fa-code:](/conteudo/codigos/05/05.zip)
 
-#### 6 - Minimax e Monte Carlo Tree Search [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXDcj6DT5_hEsAolicg0mJ4BE9T-7RioyRmb8PLwNUceHw?e=tWQfbA) [:fa-file:](/conteudo/aulas/06buscaadversarios_minimaxIA.pdf) [:fa-code:](/conteudo/codigos/06/)
+#### 6 - Minimax e Monte Carlo Tree Search [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXDcj6DT5_hEsAolicg0mJ4BE9T-7RioyRmb8PLwNUceHw?e=tWQfbA) [:fa-file:](/conteudo/aulas/06buscaadversarios_minimaxIA.pdf) [:fa-code:](/conteudo/codigos/06/06.zip)
 
-#### 7 - Expect(min)imax [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUpMV9JtxKlHmapxH4V18AsB0d2Ht19ALRQkO73fDJpY3g?e=OZsJk9) [:fa-file:](/conteudo/aulas/07buscaadversarios_expectiminimaxIA.pdf) [:fa-code:](/conteudo/codigos/07/)
+#### 7 - Expect(min)imax [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUpMV9JtxKlHmapxH4V18AsB0d2Ht19ALRQkO73fDJpY3g?e=OZsJk9) [:fa-file:](/conteudo/aulas/07buscaadversarios_expectiminimaxIA.pdf) [:fa-code:](/conteudo/codigos/07/07.zip)
 
-#### 8 -  Processo de decisão markoviano [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ETFTS3HA0wdImWCGBdPEysoB9VPWyx2hzmBadQJ-0r11cQ?e=QbPDsp) [:fa-file:](/conteudo/aulas/08mdpIA.pdf) [:fa-code:](/conteudo/codigos/08/)
+#### 8 -  Processo de decisão markoviano [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ETFTS3HA0wdImWCGBdPEysoB9VPWyx2hzmBadQJ-0r11cQ?e=QbPDsp) [:fa-file:](/conteudo/aulas/08mdpIA.pdf) [:fa-code:](/conteudo/codigos/08/08.zip)
 
-#### 9 - Aprendizagem por reforço [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ERIxS8EfePRFmLrskHxUlQMBkjKCqCT0WWeM7H6jD0I0dg?e=kuKMae)  [:fa-file:](/conteudo/aulas/09aprendizagemreforcoIA.pdf) [:fa-code:](/conteudo/codigos/09/)
+#### 9 - Aprendizagem por reforço [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/ERIxS8EfePRFmLrskHxUlQMBkjKCqCT0WWeM7H6jD0I0dg?e=kuKMae)  [:fa-file:](/conteudo/aulas/09aprendizagemreforcoIA.pdf) [:fa-code:](/conteudo/codigos/09/09.zip)
 
-#### 10 - Inferência precisa [:fa-file:](/conteudo/aulas/10inferenciaIA.pdf) e Sistemas de Produção [:fa-file:](/conteudo/aulas/10sistemasproducaoIA.pdf)  [:fa-code:](/conteudo/codigos/10/)
+#### 10 - Inferência precisa [:fa-file:](/conteudo/aulas/10inferenciaIA.pdf) e Sistemas de Produção [:fa-file:](/conteudo/aulas/10sistemasproducaoIA.pdf)  [:fa-code:](/conteudo/codigos/10/10.zip)
 
-#### 11 - Modelos probabilísticos temporais (Cadeias de Markov) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUVvZIReeJVIoT2wdX1VJrIBvRVeHNqPpCB9Qm8lvokHoQ?e=3xfFW4) [:fa-file:](/conteudo/aulas/11amodelosmarkovIA.pdf) e Modelos Escondidos de Markov (HMM) [:fa-file:](/conteudo/aulas/11bhmmIA.pdf) [:fa-code:](/conteudo/codigos/11/)
+#### 11 - Modelos probabilísticos temporais (Cadeias de Markov) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUVvZIReeJVIoT2wdX1VJrIBvRVeHNqPpCB9Qm8lvokHoQ?e=3xfFW4) [:fa-file:](/conteudo/aulas/11amodelosmarkovIA.pdf) e Modelos Escondidos de Markov (HMM) [:fa-file:](/conteudo/aulas/11bhmmIA.pdf) [:fa-code:](/conteudo/codigos/11/11.zip)
 
-#### 12 - Raciocínio probabilístico (Redes Bayesianas) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUhbBnOCB15Ksphb1LFZqf8BD3FUMKeg2yq2ZLr8zRECMw?e=S6UPHR) [:fa-file:](/conteudo/aulas/12racprobIA.pdf) [:fa-code:](/conteudo/codigos/12/)
+#### 12 - Raciocínio probabilístico (Redes Bayesianas) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUhbBnOCB15Ksphb1LFZqf8BD3FUMKeg2yq2ZLr8zRECMw?e=S6UPHR) [:fa-file:](/conteudo/aulas/12racprobIA.pdf) [:fa-code:](/conteudo/codigos/12/12.zip)
 
-#### 13 - Teoria da Decisão Bayesiana [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EfqxW6cT6r5LtxDqDz-51CQBDgtjw6t1h7P_V2CBHXaEyg?e=k111U6) [:fa-file:](/conteudo/aulas/13teoriadecisao.pdf) [:fa-code:](/conteudo/codigos/13/)
+#### 13 - Teoria da Decisão Bayesiana [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EfqxW6cT6r5LtxDqDz-51CQBDgtjw6t1h7P_V2CBHXaEyg?e=k111U6) [:fa-file:](/conteudo/aulas/13teoriadecisao.pdf) [:fa-code:](/conteudo/codigos/13/13.zip)
 
 #### 14 - Introdução ao Aprendizado de Máquina [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXyawVGSNm9ErVDw0XIffH4BFO5nGJXTJjBj5tv3KtixIQ?e=Xdh3Xh) [:fa-file:](/conteudo/aulas/14introducaoMLIA.pdf)
 
-#### 15 - Discriminantes Lineares [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUSPfCU6iYRHvCjzjlNaTioBgt9skbueozB79dd0xV2Tig?e=Iibobq) [:fa-file:](/conteudo/aulas/15discriminantelinearML.pdf) [:fa-code:](/conteudo/codigos/15/)
+#### 15 - Discriminantes Lineares [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EUSPfCU6iYRHvCjzjlNaTioBgt9skbueozB79dd0xV2Tig?e=Iibobq) [:fa-file:](/conteudo/aulas/15discriminantelinearML.pdf) [:fa-code:](/conteudo/codigos/15/15.zip)
 
-#### 16 - Regressão Logística [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXhijb-IhVhPjSmo-SMkznUBkqmpNL3hfgrx2BtoyphZ-g?e=tlIMwe) [:fa-file:](/conteudo/aulas/16regressaologisticaML.pdf) [:fa-code:](/conteudo/codigos/16/)
+#### 16 - Regressão Logística [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EXhijb-IhVhPjSmo-SMkznUBkqmpNL3hfgrx2BtoyphZ-g?e=tlIMwe) [:fa-file:](/conteudo/aulas/16regressaologisticaML.pdf) [:fa-code:](/conteudo/codigos/16/16.zip)
 
-#### 17 - Aprendizado probabilístico (Naïve Bayes) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EU_cdcKKr-ZIlxg59NrqEy4BIu3fQVwyTXVV5gON01ygEg?e=EriwZE) [:fa-file:](/conteudo/aulas/17NaiveBayes.pdf) [:fa-code:](/conteudo/codigos/17/)
+#### 17 - Aprendizado probabilístico (Naïve Bayes) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EU_cdcKKr-ZIlxg59NrqEy4BIu3fQVwyTXVV5gON01ygEg?e=EriwZE) [:fa-file:](/conteudo/aulas/17NaiveBayes.pdf) [:fa-code:](/conteudo/codigos/17/17.zip)
 
-#### 18 - Árvores de Decisão (e Florestas Aleatórias) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EdqabBKWeY9KoqPqAMTyzgUB5hofKnT4vnJWSZoyq8HBbw?e=aDyZDP) [:fa-file:](/conteudo/aulas/18arvoresdecisaoIA.pdf) [:fa-code:](/conteudo/codigos/18/)
+#### 18 - Árvores de Decisão (e Florestas Aleatórias) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EdqabBKWeY9KoqPqAMTyzgUB5hofKnT4vnJWSZoyq8HBbw?e=aDyZDP) [:fa-file:](/conteudo/aulas/18arvoresdecisaoIA.pdf) [:fa-code:](/conteudo/codigos/18/18.zip)
 
-#### 19 - Métodos baseados em distância (K vizinhos mais próximos - KNN) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ee8IwAyVrwlIoKYAvYK6IV0BlZfdbidQ7W33SZEYVgbuEA?e=K6fmPz) [:fa-file:](/conteudo/aulas/19knnML.pdf) [:fa-code:](/conteudo/codigos/19/)
+#### 19 - Métodos baseados em distância (K vizinhos mais próximos - KNN) [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/Ee8IwAyVrwlIoKYAvYK6IV0BlZfdbidQ7W33SZEYVgbuEA?e=K6fmPz) [:fa-file:](/conteudo/aulas/19knnML.pdf) [:fa-code:](/conteudo/codigos/19/19.zip)
 
-#### 20 - Regressão Linear [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EenePtwkDMZErDX14C-r5ocBgyLtLwak12vSAy6OQBF8eA?e=zuC4Oo) [:fa-file:](/conteudo/aulas/20regressaoML.pdf) [:fa-code:](/conteudo/codigos/20/)
+#### 20 - Regressão Linear [:fa-play:](https://ufsbr-my.sharepoint.com/:p:/g/personal/hendrik_office_ufs_br/EenePtwkDMZErDX14C-r5ocBgyLtLwak12vSAy6OQBF8eA?e=zuC4Oo) [:fa-file:](/conteudo/aulas/20regressaoML.pdf) [:fa-code:](/conteudo/codigos/20/20.zip)
 
-#### 21 - Modelos descritivos (agrupamento) [:fa-html5:](/conteudo/aulas/21kmeansML.html) [:fa-code:](/conteudo/codigos/21/)
+#### 21 - Modelos descritivos (agrupamento) [:fa-html5:](/conteudo/aulas/21kmeansML.html) [:fa-code:](/conteudo/codigos/21/21.zip)
 
 --- 
 ## Exercícios
