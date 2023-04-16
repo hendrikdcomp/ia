@@ -61,6 +61,7 @@
 
 
     <script>
+
       const code = document.getElementById("code");
 
       function addToOutput(s) {
@@ -74,25 +75,32 @@
       // init Pyodide
       async function main() {
         let pyodide = await loadPyodide();
+        await pyodide.loadPackage("micropip");
+        const micropip = pyodide.pyimport("micropip");
+        let response = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/dist/bayesian-1.0-py3-none-any.whl");
+        let buffer = await response.arrayBuffer();
+        await micropip.install(buffer);
+        pyodide.pyimport("bayesian");
+
         code.value += "prontinho!";
         return pyodide;
       }
       let pyodideReadyPromise = main();
 
       async function evaluatePython() {
-        let pyodide = await pyodideReadyPromise;
         try {
-          let res1 = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/bayesian.py");
-          let res2 = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/alarme_bayes.py");
-          pyodide.pyimport("bayesian");
-          pyodide.pyimport("alarme_bayes");
-          let output = pyodide.runPython(code.value);
-          addToOutput(output);
+            let pyodide = await pyodideReadyPromise;
+            // let buffer = await response.arrayBuffer();
+            // await pyodide.unpackArchive(buffer);
+            let output = pyodide.runPython(code.value);
+            addToOutput(output);
         } catch (err) {
-          addToOutput(err);
+            addToOutput(err);
         }
       }
     </script>
+
+
     <script>
         window.addEventListener('load', () => {
             registerSW();
