@@ -77,10 +77,10 @@
         let pyodide = await loadPyodide();
         await pyodide.loadPackage("micropip");
         const micropip = pyodide.pyimport("micropip");
-        let response = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/dist/bayesian-1.0-py3-none-any.whl");
-        let buffer = await response.arrayBuffer();
-        await micropip.install(buffer);
-        pyodide.pyimport("bayesian");
+        // let response = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/dist/bayesian-1.0-py2-none-any.whl");
+        // let buffer = await response.arrayBuffer();
+        await micropip.install("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/dist/bayesian-1.0.macosx-10.15-x86_64.zip");
+        // pyodide.pyimport("bayesian");
 
         code.value += "prontinho!";
         return pyodide;
