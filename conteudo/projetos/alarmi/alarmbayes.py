@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from bayesian.bayesian import *
+from bayesian import *
 
 """# Exemplo do Alarme"""
 
