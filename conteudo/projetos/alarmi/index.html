@@ -82,8 +82,10 @@
       async function evaluatePython() {
         let pyodide = await pyodideReadyPromise;
         try {
-          pyodide.runPython(await (await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/bayesian.py")).text());
-          pyodide.runPython(await (await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/alarme_bayes.py")).text());
+          let res1 = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/bayesian.py");
+          let res2 = await fetch("https://hendrikdcomp.github.io/ia/conteudo/projetos/alarmi/alarme_bayes.py");
+          pyodide.pyimport("bayesian");
+          pyodide.pyimport("alarme_bayes");
           let output = pyodide.runPython(code.value);
           addToOutput(output);
         } catch (err) {
