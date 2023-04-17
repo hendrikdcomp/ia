@@ -71,9 +71,6 @@
         td.innerHTML = s;
       }
 
-    let python_code = fetch('bayesian_alarmbayes.py')
-       .then(response => response.text())
-
     //   let python_code = fetch('https://github.com/hendrikdcomp/ia/blob/master/conteudo/projetos/alarmi/bayesian_alarmbayes.py')
     //     .then(response => response.text())
 
@@ -235,6 +232,7 @@
       async function evaluatePython() {
         let pyodide = await pyodideReadyPromise;
         try {
+          let python_code = fetch('bayesian_alarmbayes.py').then(response => response.text())
           pyodide.runPython(python_code);
           let output = pyodide.runPython(code.value);
           addToOutput(output);
