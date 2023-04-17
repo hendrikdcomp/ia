@@ -33,7 +33,7 @@
   </head>
 
   <body>
-    <h1>Alarmi ver2</h1>
+    <h1>Alarmi <v0 class="1"></v0></h1>
     <img src="alarme.png" alt="Rede bayesiana do alarme inteligente" class="responsive">
     <br />
     <h3>Pergunte-me sobre probabilidades dos eventos</h3>
@@ -82,10 +82,8 @@
       async function evaluatePython() {
         let pyodide = await pyodideReadyPromise;
         try {
-        //   let python_code = (await (await fetch('bayesian_alarmbayes.py')).text());
-          let python_code_bayesian = (await (await fetch('bayesian.py')).text());
-          let python_code_alarm = (await (await fetch('alarmbayes.py')).text());
-        //   pyodide.runPython(python_code);
+          let python_code = (await (await fetch('bayesian_alarmbayes.py')).text());
+          pyodide.runPython(python_code);
           pyodide.runPython(python_code_bayesian); 
           pyodide.runPython(python_code_alarm); 
           let output = pyodide.runPython(code.value);
