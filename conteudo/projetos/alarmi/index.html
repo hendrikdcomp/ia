@@ -3,6 +3,7 @@
   <head>
     <script src="https://cdn.jsdelivr.net/pyodide/v0.23.1/full/pyodide.js"></script>
 
+    <!-- Responsivivdade -->
     <style>
         .textinput {
             float: left;
@@ -18,7 +19,7 @@
         }
     </style>
     
-    <!-- Responsivo -->
+    <!-- Responsivivdade -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -28,12 +29,12 @@
     <meta name="apple-mobile-web-app-status-bar" content="#aa7700">
     <meta name="theme-color" content="black">
     
-    <!-- Manifest File link -->
+    <!-- Manifest.json -->
     <link rel="manifest" href="manifest.json">
   </head>
 
   <body>
-    <h1>Alarmi <v0 class="1"></v0></h1>
+    <h1>Alarmi v0.1</h1>
     <img src="alarme.png" alt="Rede bayesiana do alarme inteligente" class="responsive">
     <br />
     <h3>Pergunte-me sobre probabilidades dos eventos</h3>
@@ -62,6 +63,7 @@
     <script>
       const code = document.getElementById("code");
 
+      // Preencher a tabela de resultados
       function addToOutput(s) {
         let tr = table.insertRow(-1);
         let td = tr.insertCell(-1);
@@ -78,14 +80,12 @@
       }
       let pyodideReadyPromise = main();
 
-      // Pyodide - carregar arquivos e executar chamda
+      // Pyodide - carregar arquivos e executar chamada
       async function evaluatePython() {
         let pyodide = await pyodideReadyPromise;
         try {
           let python_code = (await (await fetch('bayesian_alarmbayes.py')).text());
           pyodide.runPython(python_code);
-          pyodide.runPython(python_code_bayesian); 
-          pyodide.runPython(python_code_alarm); 
           let output = pyodide.runPython(code.value);
           addToOutput(output);
         } catch (err) {
@@ -100,7 +100,7 @@
             registerSW();
         });
 
-        // Register the Service Worker
+        // Registro do Service Worker
         async function registerSW() {
             if ('serviceWorker' in navigator) {
                 try {
@@ -114,7 +114,6 @@
             }
         }
     </script>
-
 
   </body>
 </html>
