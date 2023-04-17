@@ -33,7 +33,7 @@
   </head>
 
   <body>
-    <h1>Alarmi - Alarme Inteligente</h1>
+    <h1>Alarmi <v0 class="1"></v0></h1>
     <img src="alarme.png" alt="Rede bayesiana do alarme inteligente" class="responsive">
     <br />
     <h3>Pergunte-me sobre probabilidades dos eventos</h3>
@@ -70,9 +70,12 @@
         td = tr.insertCell(-1);
         td.innerHTML = s;
       }
-    
-      let python_code = fetch('https://github.com/hendrikdcomp/ia/blob/master/conteudo/projetos/alarmi/bayesian_alarmbayes.py')
-        .then(response => response.text())
+
+    let python_code = fetch('bayesian_alarmbayes.py')
+       .then(response => response.text())
+
+    //   let python_code = fetch('https://github.com/hendrikdcomp/ia/blob/master/conteudo/projetos/alarmi/bayesian_alarmbayes.py')
+    //     .then(response => response.text())
 
     //   let python_code = `
     //   # -*- coding: utf-8 -*-
